@@ -2,7 +2,7 @@ body {
     background-image: url("images/andrew-kliatskyi-xlNGXtJ1lgE-unsplash.jpg");
     background-repeat: no-repeat
 }
-html, body {
+html{
     overflow-x: hidden;
     max-width: 100%;
 }
