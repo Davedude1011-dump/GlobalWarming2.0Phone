@@ -1,0 +1,7 @@
+<img
+      src="images\meltingIceCapsIMG.jpg"
+      style="position: relative; width: 50%; left: 3%"
+    />
+
+    <br />
+    <img src="images\pollutionIMG.jpg" style="width: 30%" />
